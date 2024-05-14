@@ -15,8 +15,8 @@ Nikita is a recent post-graduate for Georgian College successfully obtaining a c
 - Familiarity with QA processes and data ethics principles.
 
 ## Education
-- Post Graduate Certificate, Big Data Analytics [GPA: 88.22] , - Georgian College of Applied Arts and Technology, Ontario
-- Bachelors in Science Degree [GPA: 68.66], - DPG Degree College, India
+- Post Graduate Certificate, Big Data Analytics [GPA: 88.22] , Georgian College of Applied Arts and Technology, Ontario
+- Bachelors in Science Degree [GPA: 68.66], DPG Degree College, India
 
 ### Projects
 - Smart Beach Canada (Government of Canada Project)
