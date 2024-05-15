@@ -28,7 +28,7 @@ Nikita is a recent post-graduate for Georgian College successfully obtaining a c
 -	She assisted senior project members on gap analysis and complied/documented phase status reports and deliverables for final report.
 
 
-## Contact
+## Contact Details
   
 
 
